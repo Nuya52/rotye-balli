@@ -14,6 +14,14 @@
             "surname": "Danger",
             "balance": 14880,
             "photo_url": "https://i.pinimg.com/736x/ea/45/7e/ea457e5514400e7ed35e950e422f98b3.jpg"
+        },
+
+        {
+            "id": 3,
+            "name": "xzchoto",
+            "surname": "loxovich",
+            "balance": 228,
+            "photo_url": "https://i.pinimg.com/736x/f4/69/e1/f469e106c1194690b945847ee96cdde7.jpg"
         }
     ]
 }
